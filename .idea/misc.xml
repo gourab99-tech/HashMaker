@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/drawable-anydpi/ic_share_icon.xml" value="0.184" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/drawable/gradien_black_color.xml" value="0.184" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/drawable/ic_call_black_24dp.xml" value="0.1785" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1785" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.184" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/drawable/ic_lens_background.xml" value="0.184" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/drawable/myshape.xml" value="0.1785" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/font/coiny.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/font/harmattan.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/font/londrina_solid.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/layout/card_view_hashtag_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/layout/fragment_about_us.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/layout/fragment_all_hashtags.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/layout/fragment_contact_us.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/layout/fragment_content.xml" value="0.1" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/layout/header_drawer_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/menu/drawer_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1785" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_banner.xml" value="0.1785" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_banner_round.xml" value="0.1785" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_insta.xml" value="0.1785" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_insta_round.xml" value="0.1785" />
+        <entry key="..\:/Users/Gourab/Downloads/1601147862424YouHash/YouHash/YouHash/YouHash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1785" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
