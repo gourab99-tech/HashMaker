@@ -41,7 +41,7 @@
 
         <Button
             android:id="@+id/button_see_more_game_item"
-            android:layout_width="50dp"
+            android:layout_width="170dp"
             android:layout_height="50dp"
             android:layout_marginStart="16dp"
             android:layout_marginLeft="16dp"
@@ -50,6 +50,7 @@
             android:background="@drawable/next_button"
             android:fontFamily="@font/sniglet"
             android:scaleType="centerInside"
+            android:scaleX=".5"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/linearLayout"

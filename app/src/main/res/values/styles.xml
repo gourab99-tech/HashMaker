@@ -3,9 +3,9 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">#ef4336</item>
-        <item name="colorPrimaryDark">#F8AE52</item>
-        <item name="colorAccent">#EF3E31</item>
+        <item name="colorPrimary">#FC67B9</item>
+        <item name="colorPrimaryDark">#F4D445</item>
+        <item name="colorAccent">#FFD709</item>
     </style>
 
     <style name="snigletFontFamily">
