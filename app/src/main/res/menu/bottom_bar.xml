@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_page"
+        android:icon="@drawable/ic_main_page"
+        android:title="Home" />
+    <item
+        android:id="@+id/trending_page"
+        android:icon="@drawable/ic_trend"
+        android:title="Trending" />
+    <item
+        android:id="@+id/most_used_page"
+        android:icon="@drawable/ic_most_used"
+        android:title="Most Used" />
+</menu>

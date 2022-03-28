@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         mDrawerLayout = findViewById(R.id.drawerlayout_main);
         mNavigationView = findViewById(R.id.navigation_view);
         mContext = getApplicationContext();
-        getSupportFragmentManager().beginTransaction().add(R.id.container_framelayout, new FragmentAllHashtags()).commit();
+        getSupportFragmentManager().beginTransaction().replace(R.id.container_framelayout, new FragmentAllHashtags()).commit();
         bottomNavigationView = findViewById(R.id.bottom_navigation_view);
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
