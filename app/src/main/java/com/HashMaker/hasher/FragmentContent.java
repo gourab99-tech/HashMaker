@@ -113,7 +113,7 @@ public class FragmentContent extends Fragment {
             }
         }
         Collections.shuffle(hashtagsSeparatedList);
-        Hashtags.FINAL_YOUTUBE_HASHTAGS = "#" + hashtagsSeparatedList.get(0) + " #" + hashtagsSeparatedList.get(1) + " #" + hashtagsSeparatedList.get(2) + " ";
+        Hashtags.FINAL_YOUTUBE_HASHTAGS = "#" + hashtagsSeparatedList.get(0) + " #" + hashtagsSeparatedList.get(1) + " #" + hashtagsSeparatedList.get(2) + " #" + hashtagsSeparatedList.get(3) + " #" + hashtagsSeparatedList.get(4) + " #" + hashtagsSeparatedList.get(5) + " #" + hashtagsSeparatedList.get(6) + " #" + hashtagsSeparatedList.get(7) + " #" + hashtagsSeparatedList.get(8) + " #" + hashtagsSeparatedList.get(9) + " #" + hashtagsSeparatedList.get(10) + " #" + hashtagsSeparatedList.get(11) + " #" + hashtagsSeparatedList.get(12) + " #" + hashtagsSeparatedList.get(13) + " #" + hashtagsSeparatedList.get(14) + " #" + hashtagsSeparatedList.get(15) + " #" + hashtagsSeparatedList.get(16) + " #" + hashtagsSeparatedList.get(17) + " #" + hashtagsSeparatedList.get(18) + " #" + hashtagsSeparatedList.get(19) + " #" + hashtagsSeparatedList.get(20) + " #" + hashtagsSeparatedList.get(21) + " #" + hashtagsSeparatedList.get(22) + " #" + hashtagsSeparatedList.get(23) + " #" + hashtagsSeparatedList.get(24) + " ";
         textViewHashtagContent.setText(Hashtags.FINAL_YOUTUBE_HASHTAGS);
 
 
@@ -126,7 +126,7 @@ public class FragmentContent extends Fragment {
                 buttonRegenerate.startAnimation(animationBubble);
                 Hashtags.FINAL_YOUTUBE_HASHTAGS = "";
                 Collections.shuffle(finalHashtagsSeparatedList);
-                Hashtags.FINAL_YOUTUBE_HASHTAGS = "#" + finalHashtagsSeparatedList.get(0) + " #" + finalHashtagsSeparatedList.get(1) + " #" + finalHashtagsSeparatedList.get(2) + " ";
+                Hashtags.FINAL_YOUTUBE_HASHTAGS = "#" + finalHashtagsSeparatedList.get(0) + " #" + finalHashtagsSeparatedList.get(1) + " #" + finalHashtagsSeparatedList.get(2) + finalHashtagsSeparatedList.get(3) + finalHashtagsSeparatedList.get(4) + finalHashtagsSeparatedList.get(5) + finalHashtagsSeparatedList.get(6) + finalHashtagsSeparatedList.get(7) + finalHashtagsSeparatedList.get(8) + finalHashtagsSeparatedList.get(9) + finalHashtagsSeparatedList.get(10)  + finalHashtagsSeparatedList.get(11)  + finalHashtagsSeparatedList.get(12)  + finalHashtagsSeparatedList.get(13)  + finalHashtagsSeparatedList.get(14)  + finalHashtagsSeparatedList.get(15)  + finalHashtagsSeparatedList.get(16)  + finalHashtagsSeparatedList.get(17)  + finalHashtagsSeparatedList.get(18)  + finalHashtagsSeparatedList.get(19)  + finalHashtagsSeparatedList.get(20)  + finalHashtagsSeparatedList.get(21)  + finalHashtagsSeparatedList.get(22)  + finalHashtagsSeparatedList.get(23)  + finalHashtagsSeparatedList.get(24) + " ";
                 textViewHashtagContent.setText(Hashtags.FINAL_YOUTUBE_HASHTAGS);
                 //Toast.makeText(getContext(),"Generate Button Clicked !",Toast.LENGTH_SHORT).show();
             }
